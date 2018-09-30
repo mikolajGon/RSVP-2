@@ -8,7 +8,7 @@ const emptyInviteeTile = document.querySelector('#empty_invitee').firstElementCh
 const Czarek = new Invitee(0, 'Czarek', true);
 
 let invitees = [Czarek];
-let nextId = invitees.length;;
+let nextId = invitees.length;
 
 /* -----------------
  Object Functions
